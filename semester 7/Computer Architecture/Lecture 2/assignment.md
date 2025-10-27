@@ -1,7 +1,6 @@
 
-
 # Assignment 2
-
+Saleh Diaa Ahmed (30)
 1. Explain the construction & operation of sense amplifier in SRAM?
 #### **Construction**
 

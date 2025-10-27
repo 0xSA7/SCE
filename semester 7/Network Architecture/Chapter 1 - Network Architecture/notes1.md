@@ -84,7 +84,7 @@ Essential functions within each end system:
 * Acts as a **reference model**, not a specific implementation.
 
 ### 1.8 Layered Architecture of the OSI Reference Model
-![Layered_Architecture_of_the_OSI_Reference_Model](Layered_Architecture_of_the_OSI_Reference_Model.png)
+![Layered_Architecture_of_the_OSI_Reference_Model](media/Layered_Architecture_of_the_OSI_Reference_Model.png)
 
 #### 1.8.1 Application Layer
 * **Role**: **Interface** between user **applications** and the **OSI network**.
@@ -102,7 +102,7 @@ Essential functions within each end system:
     * Remote Terminal Access → Uses Telnet to connect to remote computers
 
 #### 1.8.2 Presentation Layer
-![Local and Transfer Syntax of the Presentation Layer](Local_and_Transfer_Syntax_of_the_Presentation_Layer.png "Local and Transfer Syntax of the Presentation Layer")
+![Local and Transfer Syntax of the Presentation Layer](media/Local_and_Transfer_Syntax_of_the_Presentation_Layer.png "Local and Transfer Syntax of the Presentation Layer")
 * **Purpose**: Ensures data is presented in a usable and meaningful way between applications.
 * **Main Functions**:
     * Resolves syntax differences (data formats, codes) between sender and receiver.
@@ -136,7 +136,7 @@ Essential functions within each end system:
 * **Scope**: True **end-to-end** communication between source and destination applications.
 
 ### 1.8.5 Network Layer
-![Routing of Packets by the Network Layer](Routing_of_Packets_by_the_Network_Layer.png "Routing of Packets by the Network Layer ")
+![Routing of Packets by the Network Layer](media/Routing_of_Packets_by_the_Network_Layer.png "Routing of Packets by the Network Layer ")
 * **Role**: Handles **routing and delivery** of data packets across interconnected networks.
 * **Purpose**: Enables communication between devices on **different networks**, hiding the detalis of underlying transmission technologies from higher layers.
 * **Main Functions**:
