@@ -106,8 +106,6 @@ $$
 where $\mathbf{i}_L$ is the vector of loop currents $[I_1, I_2, I_3]^T$.
 
 
-Perfect 👍 Here's your statement rewritten clearly and formatted in proper engineering/matrix notation:
-
 ---
 
 ### Expressing Branch Currents in Terms of Loop Currents
